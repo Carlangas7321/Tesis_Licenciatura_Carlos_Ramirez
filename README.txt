@@ -1,0 +1,5 @@
+Dependencias
+
+numpy               2.0.2
+scipy               1.13.1
+matplotlib          3.9.4
